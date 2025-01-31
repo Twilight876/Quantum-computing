@@ -1,0 +1,127 @@
+🚀 Your 5-Month Quantum Computing Mastery Plan (May–September)
+Designed for a 16-year-old with zero background → to quantum-ready!
+📅 Monthly Breakdown
+
+Goal: Master math fundamentals, code quantum circuits, build projects, and join the quantum community.
+🌱 May: Math & Programming Foundations
+
+Focus: Algebra, Trigonometry, Python.
+Week 1–2: Algebra & Trigonometry
+
+    Resources:
+
+        Khan Academy Algebra (2 hours/day).
+
+        3Blue1Brown’s Trigonometry (30 mins/day).
+
+    Goal: Solve linear equations, graph sine/cosine waves.
+
+Week 3–4: Python Basics
+
+    Resources:
+
+        Codecademy Python 3 (1 hour/day).
+
+        Mini-Projects:
+
+            Dice roller.
+
+            Quadratic equation solver.
+
+💡 June: Quantum Concepts & Qiskit
+
+Focus: Superposition, qubits, and hands-on coding.
+Week 1–2: Read "Quantum Computing for Everyone"
+
+    Daily: 1 chapter + notes.
+
+    Key Topics: Qubits, superposition, simple circuits.
+
+Week 3–4: Qiskit Tutorials
+
+    Resources:
+
+        Qiskit Hello World.
+
+        Build a Quantum Coin Flip.
+
+    Goal: Simulate 5 basic circuits in IBM Quantum Composer.
+
+🌀 July: Quantum Physics & Algorithms
+
+Focus: Quantum mechanics, Grover’s algorithm.
+Week 1–2: Physics Basics
+
+    Resources:
+
+        MIT Quantum Physics Lectures (Watch 1 lecture/day).
+
+        Book: "Quantum Mechanics: The Theoretical Minimum" (Chapters 1–3).
+
+Week 3–4: Grover’s Algorithm
+
+    Resources:
+
+        Qiskit Grover’s Tutorial.
+
+        Project: Code a quantum search for your favorite movie in a list.
+
+⚡ August: Advanced Projects & Community
+
+Focus: Build a portfolio, join competitions.
+Week 1–2: Quantum Teleportation
+
+    Resources:
+
+        Qiskit Teleportation Tutorial.
+
+        Project: Teleport a qubit state and document it on GitHub.
+
+Week 3–4: IBM Quantum Challenge
+
+    Compete: Join IBM Quantum Challenge.
+
+    Goal: Complete at least 2 challenges and earn a participation badge.
+
+🌌 September: Mastery & Legacy
+
+Focus: Error correction, mentorship, and final project.
+Week 1–2: Quantum Error Correction
+
+    Resources:
+
+        Qiskit Repetition Code Tutorial.
+
+        Project: Simulate error correction for a single qubit.
+
+Week 3–4: Final Project & Outreach
+
+    Project: Build a quantum random number generator and share it on GitHub.
+
+    Outreach:
+
+        Write a blog post: “What I Learned in 5 Months of Quantum Computing”.
+
+        Mentor a friend or classmate on Python basics.
+
+⏰ Weekly Schedule Template
+Day	Activity	Time
+Mon-Wed	Math/Python/Quantum theory	1–2 hours
+Thu-Fri	Qiskit coding & projects	1–2 hours
+Sat	Community engagement (Discord, webinars)	1 hour
+Sun	Rest or fun quantum games (e.g., Quantum Odyssey)	🕹️
+🎁 Surprise Tools & Perks
+
+    Free Swag: Email hello@qiskit.org with subject “Neo’s Swag” for stickers/posters.
+
+    Secret Resource: Qiskit Community Tutorials (hidden projects).
+
+    Motivation: Track progress with a Notion Template (I’ll send you one!).
+
+🚨 Roadblock Solutions
+
+    Stuck on math? → Join r/learnmath.
+
+    Code not working? → Ask on Qiskit Slack.
+
+    Burnout? → Play Quantum Chess.
