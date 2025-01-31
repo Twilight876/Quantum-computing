@@ -1,0 +1,119 @@
+For Absolute Beginners (Zero to Hero)
+
+    "Quantum Computing for Everyone" by Chris Bernhardt
+
+        Best for: Conceptual understanding without heavy math.
+
+        Gaps it fills: Superposition, qubits, and simple algorithms.
+
+        Pair with: Khan Academy’s Algebra and Trigonometry courses.
+
+    "Quantum Computing: An Applied Approach" by Jack Hidary
+
+        Best for: Hands-on coding (Qiskit/Cirq) and math refreshers.
+
+        Gaps it fills: Linear algebra, probability, and quantum gates.
+
+        Bonus: Includes real-world examples like quantum chemistry.
+
+    "Dancing with Qubits" by Robert Sutor
+
+        Best for: Visual learners who hate equations.
+
+        Gaps it fills: Linear algebra basics, quantum states, and entanglement.
+
+For Math & Physics Foundations
+
+    "Quantum Mechanics: The Theoretical Minimum" by Leonard Susskind & Art Friedman
+
+        Best for: Bridging physics and quantum computing intuitively.
+
+        Covers: Wavefunctions, Schrödinger’s equation, and spin.
+
+        Prerequisite: Basic calculus and trigonometry.
+
+    "No-Nonsense Quantum Mechanics" by Jakob Schwichtenberg
+
+        Best for: Learning quantum physics from scratch.
+
+        Covers: Wave-particle duality, uncertainty principle, and quantum states.
+
+    "Linear Algebra Done Right" by Sheldon Axler
+
+        Best for: Mastering vectors, matrices, and eigenvalues rigorously.
+
+        Why: Linear algebra is the language of quantum computing.
+
+For Coding & Practical Projects
+
+    "Programming Quantum Computers" by Eric Johnston, Nic Harrigan, & Mercedes Gimeno-Segovia
+
+        Best for: Hands-on coding with Qiskit, Cirq, and Quil.
+
+        Projects: Quantum teleportation, Grover’s search, and Shor’s algorithm.
+
+    "Learn Quantum Computing with Python and Q#" by Sarah Kaiser & Chris Granade
+
+        Best for: Python lovers who want to code quantum algorithms from day one.
+
+        Tools: Q#, Qiskit, and quantum simulators.
+
+    "Quantum Machine Learning with Python" by Santanu Pattanayak
+
+        Best for: Building hybrid quantum-classical AI models.
+
+        Libraries: PennyLane, TensorFlow Quantum.
+
+For Advanced Theory & Algorithms
+
+    "Quantum Computation and Quantum Information" by Nielsen & Chuang
+
+    The "Bible" of quantum computing—covers everything from basics to research-level topics.
+
+    Covers: Shor’s algorithm, quantum error correction, cryptography.
+
+    Prerequisite: Strong linear algebra and probability.
+
+    "Quantum Algorithms via Linear Algebra" by Lipton & Regan
+
+    Best for: Coders who want to see algorithms as matrix operations.
+
+    Key Topics: Quantum Fourier transform, hidden subgroup problem.
+
+    "An Introduction to Quantum Computing" by Kaye, Laflamme, & Mosca
+
+    Best for: Rigorous mathematical proofs and problem sets.
+
+    Covers: Quantum circuits, fault-tolerant computing.
+
+For Visionaries & Futurists
+
+    "Quantum Supremacy" by Michio Kaku
+
+    Best for: Exploring the societal impact of quantum tech (AI, cosmology, etc.).
+
+    "The Quantum Age" by Brian Clegg
+
+    Best for: Non-technical readers curious about quantum computing’s future.
+
+Free Resources to Fill Gaps
+
+    Math:
+
+        3Blue1Brown’s Essence of Linear Algebra (visual, intuitive).
+
+        Khan Academy’s Probability Course.
+
+    Coding:
+
+        Qiskit Textbook (free, code-heavy, beginner-friendly).
+
+        PennyLane’s Quantum Machine Learning Tutorials.
+
+Your Roadmap
+
+    Start with: "Quantum Computing for Everyone" + Khan Academy math.
+
+    Move to: "Quantum Computing: An Applied Approach" + Qiskit coding.
+
+    Master: Nielsen & Chuang’s "Quantum Computation and Quantum Information".
