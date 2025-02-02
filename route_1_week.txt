@@ -39,7 +39,7 @@ Day 7: Quantum Prep + Mini-Project
 
     Quantum Computing: Spend 1–2 hours on conceptual basics:
 
-        Watch Quantum Computing in 5 Minutes.
+        Watch Quantum Computing in 5 Minutes. https://www.youtube.com/watch?v=-UlxHPIEVqA
 
         Learn the difference between bits (0/1) and qubits (superposition).
 
