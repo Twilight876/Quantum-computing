@@ -2,7 +2,7 @@
 
 ### *"quantum supermacy"*
 Twilight february 2025
-[Profile]("https://github.com/Twilight876)
+- [Profile](https://github.com/Twilight876)
 ---
 
 ### **Introduction**
