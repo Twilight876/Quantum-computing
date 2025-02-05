@@ -338,9 +338,9 @@ This roadmap has been crafted to guide you, step by step from the most basic con
 3. - **8.01 Classical Mechanics (MIT OpenCourseWare)**
 - This course covers the basics of classical mechanics, including kinematics, dynamics, energy, and momentum.
   - [Link](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
-4. - **Physics 5A: Introduction to Mechanics (UC Irvine)**
-- A comprehensive introduction to physics, focusing on mechanics.
-  - [Link](https://www.open.uci.edu/courses/physics_5a_introduction_to_mechanics.html)
+4. - **Yale University: Fundamentals of Physics I**
+- **Why it's great**: This course is beginner-friendly and provides a solid foundation in classical mechanics, including oscillatory motion.
+  - [Link](https://oyc.yale.edu/physics/phys-200)
 
 
 ##### **Programming as a Tool**
@@ -365,14 +365,16 @@ This roadmap has been crafted to guide you, step by step from the most basic con
 ##### **Advanced Quantum Algorithms**
 1. **Quantum Algorithms for Computational Problems (edX)**: Dive into algorithms like Grover’s and Shor’s.
    - [Link](https://www.edx.org/course/quantum-algorithms-for-computational-problems)
-2. - **Quantum Computing Since Democritus (University of Waterloo)**
-- A series of lectures by Scott Aaronson that cover quantum computing and computational complexity theory.
-  - [Playlist Link](https://www.youtube.com/watch?v=7JqKc4Q9v3U&list=PL1826E60FD05B44E4)
-  
-3. - **Quantum Computation and Information (Carnegie Mellon University)**
-- Lectures by Professor O'Donnell that cover quantum computing fundamentals.
-  - [Playlist Link](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpM_8fft2)
-4. **Qiskit Tutorials – Advanced Algorithms**: Practice coding advanced algorithms with real quantum circuits.
+2. - **MIT OpenCourseWare: Quantum Computation**
+- **Why it's great**: This course introduces quantum algorithms like Grover’s and Shor’s in a rigorous yet accessible way. It assumes some familiarity with linear algebra and basic quantum mechanics.
+  - [Link](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/)
+ 3. - **Caltech: Ph/CS 219A – Quantum Computation**
+  - [Link](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
+ 4. - **Carnegie Mellon University: Quantum Computing and Information**
+- **Why it's great**: Professor O’Donnell’s lectures provide a clear introduction to quantum algorithms and their implementation.
+  - [Link](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpM_8fft2)
+
+5. **Qiskit Tutorials – Advanced Algorithms**: Practice coding advanced algorithms with real quantum circuits.
    - [Link](https://qiskit.org/documentation/tutorials.html)
 
 ##### **Quantum Error Correction**
@@ -396,14 +398,12 @@ This roadmap has been crafted to guide you, step by step from the most basic con
    - [Link](https://www.edx.org/course/exploring-quantum-physics)
 2. **Advanced Topics in Quantum Mechanics (arXiv)**: Explore research papers on cutting-edge quantum physics.
    - [Link](https://arxiv.org/)
-3.   -  **Quantum Mechanics I (Stanford University)**
-- A series of lectures by Leonard Susskind that provide an in-depth introduction to quantum mechanics.
-  - [Playlist Link](https://www.youtube.com/playlist?list=PLIeG0ZoyyaQVWzjRn9lPdNfOQxSa85_yD)
-  
-4. -  **Quantum Mechanics II (Stanford University)**
-- Continuation of the quantum mechanics series, covering more advanced topics.
-  - [Playlist Link](https://www.youtube.com/playlist?list=PLIeG0ZoyyaQVWzjRn9lPdNfOQxSa85_yD)
+3. **Stanford University: Quantum Mechanics (Theoretical Minimum)**
+  - [Link](https://theoreticalminimum.com/courses/quantum-mechanics)
+4.   **Oxford University: Quantum Mechanics for Beginners**  
+  - [Link](https://www.physics.ox.ac.uk/study-here/undergraduates/quantum-mechanics-for-beginners) **3. University of Colorado 5. 5.   **Boulder: Physics 2170 – Foundations of Modern Physics**
 
+  - [Link](https://www.colorado.edu/physics/phys2170/)
 ---
 
 ### **🚀 Your 5-Month Quantum Computing Mastery Plan (May–September)**
