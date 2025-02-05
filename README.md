@@ -1,7 +1,6 @@
 ## **The Ultimate Quantum Algorithm Development Guide**
 ### *"From absolute basics to quantum mastery."*
-
-Neo february 2025
+Twilight february 2025
 
 ---
 
