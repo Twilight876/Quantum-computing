@@ -1,6 +1,6 @@
 ## **The Ultimate Quantum Algorithm Development Guide**
 
-### *"From absolute basics to quantum mastery."*
+### *"quantum supermacy"*
 Twilight february 2025
 ---
 
@@ -654,12 +654,6 @@ Thank you for your suggestions!
 
 ---
 
-### **📜 LICENSE**
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireevl) has waived all copyright and related or neighboring rights to this work.
-
----
-
 ### **💬 Community**
 - **D-Wave Leap Community**: D-Wave System's Leap Community Forum.
 - **IBM Q Community**: IBM Q Community page with list of upcoming events and latest programs.
@@ -834,9 +828,8 @@ To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireev
 
 ---
 
-### License
+### **📜 LICENSE**
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 To the extent possible under law, [Twilight](https://github.com/Twilight876) has waived all copyright and related or neighboring rights to this work.
-
 ---
