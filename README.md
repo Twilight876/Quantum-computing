@@ -336,10 +336,8 @@ This roadmap has been crafted to guide you, step by step from the most basic con
 2. **Introduction to Physics (edX)**: Core physics concepts explained for beginners.
    - [Link](https://www.edx.org/course/introduction-to-physics)
 3. - **8.01 Classical Mechanics (MIT OpenCourseWare)**
-- This course covers the basics of classical mechanics, including kinematics, dynamics, energy, and momentum.
   - [Link](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
 4. - **Yale University: Fundamentals of Physics I**
-- **Why it's great**: This course is beginner-friendly and provides a solid foundation in classical mechanics, including oscillatory motion.
   - [Link](https://oyc.yale.edu/physics/phys-200)
 
 
