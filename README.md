@@ -1,5 +1,5 @@
 ## **The Ultimate Quantum Algorithm Development Guide**
-<img src="https://github.com/Twilight876/Quantum-computing/blob/main/sunrise-4096498_1280.jpg" align="right" width="110">
+
 ### *"From absolute basics to quantum mastery."*
 Twilight february 2025
 ---
