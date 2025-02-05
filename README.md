@@ -335,6 +335,13 @@ This roadmap has been crafted to guide you, step by step from the most basic con
    - [Amazon Link](https://www.amazon.com/Quantum-Mechanics-Demystified-David-McMahon/dp/0071455469)
 2. **Introduction to Physics (edX)**: Core physics concepts explained for beginners.
    - [Link](https://www.edx.org/course/introduction-to-physics)
+3. - **8.01 Classical Mechanics (MIT OpenCourseWare)**
+- This course covers the basics of classical mechanics, including kinematics, dynamics, energy, and momentum.
+  - [Link](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
+4. - **Physics 5A: Introduction to Mechanics (UC Irvine)**
+- A comprehensive introduction to physics, focusing on mechanics.
+  - [Link](https://www.open.uci.edu/courses/physics_5a_introduction_to_mechanics.html)
+
 
 ##### **Programming as a Tool**
 - **freeCodeCamp – Python for Beginners**: Learn Python basics and build foundational coding skills.
@@ -358,7 +365,14 @@ This roadmap has been crafted to guide you, step by step from the most basic con
 ##### **Advanced Quantum Algorithms**
 1. **Quantum Algorithms for Computational Problems (edX)**: Dive into algorithms like Grover’s and Shor’s.
    - [Link](https://www.edx.org/course/quantum-algorithms-for-computational-problems)
-2. **Qiskit Tutorials – Advanced Algorithms**: Practice coding advanced algorithms with real quantum circuits.
+2. - **Quantum Computing Since Democritus (University of Waterloo)**
+- A series of lectures by Scott Aaronson that cover quantum computing and computational complexity theory.
+  - [Playlist Link](https://www.youtube.com/watch?v=7JqKc4Q9v3U&list=PL1826E60FD05B44E4)
+  
+3. - **Quantum Computation and Information (Carnegie Mellon University)**
+- Lectures by Professor O'Donnell that cover quantum computing fundamentals.
+  - [Playlist Link](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpM_8fft2)
+4. **Qiskit Tutorials – Advanced Algorithms**: Practice coding advanced algorithms with real quantum circuits.
    - [Link](https://qiskit.org/documentation/tutorials.html)
 
 ##### **Quantum Error Correction**
@@ -382,6 +396,13 @@ This roadmap has been crafted to guide you, step by step from the most basic con
    - [Link](https://www.edx.org/course/exploring-quantum-physics)
 2. **Advanced Topics in Quantum Mechanics (arXiv)**: Explore research papers on cutting-edge quantum physics.
    - [Link](https://arxiv.org/)
+3.   -  **Quantum Mechanics I (Stanford University)**
+- A series of lectures by Leonard Susskind that provide an in-depth introduction to quantum mechanics.
+  - [Playlist Link](https://www.youtube.com/playlist?list=PLIeG0ZoyyaQVWzjRn9lPdNfOQxSa85_yD)
+  
+4. -  **Quantum Mechanics II (Stanford University)**
+- Continuation of the quantum mechanics series, covering more advanced topics.
+  - [Playlist Link](https://www.youtube.com/playlist?list=PLIeG0ZoyyaQVWzjRn9lPdNfOQxSa85_yD)
 
 ---
 
