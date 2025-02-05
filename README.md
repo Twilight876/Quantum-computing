@@ -405,6 +405,77 @@ This roadmap has been crafted to guide you, step by step from the most basic con
 
   - [Link](https://www.colorado.edu/physics/phys2170/)
 ---
+### **Additional Resources for Physics and Quantum Computing**
+#### **1. University of California, Berkeley: Physics 7A – Mechanics**
+- **Why it's great**: A foundational course that covers oscillatory motion, waves, and mechanics in detail.
+  - [Link](https://physics.berkeley.edu/academics/courses/physics-7a)
+  - Topics include:
+    - Simple harmonic motion
+    - Damped and driven oscillators
+    - Waves and sound
+
+#### **2. University of Cambridge: Quantum Mechanics**
+- **Why it's great**: This resource provides lecture notes and problem sets for quantum mechanics, suitable for self-study.
+  - [Link](https://www.damtp.cam.ac.uk/user/tong/qm.html)
+  - Topics include:
+    - Schrödinger’s equation
+    - Quantum states and operators
+    - Quantum measurement
+
+#### **3. Perimeter Institute: Exploring Quantum Physics**
+- **Why it's great**: Perimeter Institute offers free lectures and resources on quantum physics, aimed at both beginners and advanced learners.
+  - [Link](https://www.perimeterinstitute.ca/outreach/educational-resources)
+  - Topics include:
+    - Quantum foundations
+    - Quantum information
+    - Quantum computing basics
+
+---
+
+### **Books and Supplementary Materials**
+#### **For Oscillatory Motion and Classical Mechanics**
+- *"Classical Mechanics"* by John R. Taylor
+  - Best for: Clear explanations of oscillatory motion, waves, and mechanics.
+  - [Amazon Link](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X)
+
+- *"Physics for Scientists and Engineers"* by Paul A. Tipler and Gene Mosca
+  - Best for: Comprehensive coverage of oscillatory motion and waves.
+  - [Amazon Link](https://www.amazon.com/Physics-Scientists-Engineers-Paul-Tipler/dp/142920124X)
+
+#### **For Quantum Mechanics**
+- *"Quantum Mechanics: The Theoretical Minimum"* by Leonard Susskind and Art Friedman
+  - Best for: Building intuition for quantum mechanics without heavy math.
+  - [Amazon Link](https://www.amazon.com/Quantum-Mechanics-Theoretical-Leonard-Susskind/dp/0465036678)
+
+- *"No-Nonsense Quantum Mechanics"* by Jakob Schwichtenberg
+  - Best for: Learning quantum mechanics from scratch with practical examples.
+  - [Amazon Link](https://www.amazon.com/No-Nonsense-Quantum-Mechanics-Jakob-Schwichtenberg/dp/1790849732)
+
+#### **For Quantum Computing**
+- *"Quantum Computation and Quantum Information"* by Michael A. Nielsen and Isaac L. Chuang
+  - Best for: A deep dive into quantum algorithms and quantum computing theory.
+  - [Amazon Link](https://www.amazon.com/Quantum-Computation-Information-Anniversary-Edition/dp/1107002176)
+
+---
+
+### **Hands-On Tools for Quantum Computing**
+#### **1. IBM Quantum Experience**
+- **Why it's great**: Access real quantum hardware and simulators to practice building quantum circuits.
+  - [Link](https://quantum-computing.ibm.com/)
+
+#### **2. Qiskit Textbook**
+- **Why it's great**: A free, interactive textbook for learning quantum computing with Python.
+  - [Link](https://qiskit.org/textbook/preface.html)
+
+#### **3. Microsoft Quantum Katas**
+- **Why it's great**: Interactive coding exercises to learn quantum computing concepts.
+  - [Link](https://github.com/microsoft/QuantumKatas)
+
+---
+
+### **Final Notes**
+If you're just starting with physics, focus on **MIT OpenCourseWare** and **Yale’s Fundamentals of Physics** for classical mechanics and oscillatory motion. Once you’re comfortable, move on to quantum mechanics resources like **Stanford’s Theoretical Minimum** and **Caltech’s Quantum Computation**. These university-based resources are permanent, free, and highly regarded in the field.
+---
 
 ### **🚀 Your 5-Month Quantum Computing Mastery Plan (May–September)**
 
