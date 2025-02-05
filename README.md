@@ -471,38 +471,14 @@ Focus: Error correction, mentorship, and final project.
 
 ---
 
-### **🗓️ 1-Week Power Plan (CS50 + Automation)**
 
-Goal: Complete the most relevant parts of CS50 while building automation scripts to feel immediate progress.
-
-- **Day 1–2: CS50’s Python + Automation Basics**
-  - CS50: Skip to Week 6 (Python). Focus on:
-    - Python syntax, loops, functions, and file I/O.
-    - Libraries like sys, os, and re (regex).
-  - Automation Project:
-    - Build a file organizer (sort files by type/date).
-    - Use Python’s os and shutil to automate folder cleanup.
-- **Day 3–4: CS50 Algorithms + Web Automation**
-  - CS50: Watch Week 3 (Algorithms) for Big O, search/sort.
-  - Automation Project:
-    - Scrape a website (e.g., weather data) using Python’s requests and BeautifulSoup.
-    - Save results to a CSV/Excel file.
-- **Day 5–6: CS50 SQL + Advanced Automation**
-  - CS50: Study Week 7 (SQL). Learn to query databases.
-  - Automation Project:
-    - Automate a database backup script (Python + SQL).
-    - Use cron (Linux/macOS) or Task Scheduler (Windows) to run it daily.
-- **Day 7: Quantum Prep + Mini-Project**
   - Quantum Computing: Spend 1–2 hours on conceptual basics:
     - Watch Quantum Computing in 5 Minutes. https://www.youtube.com/watch?v=-UlxHPIEVqA
     - Learn the difference between bits (0/1) and qubits (superposition).
   - Automation Project:
     - Combine all skills: Scrape data → clean it with Python → save to SQL → automate the workflow.
 
-💡 **Why This Works**
-- CS50’s Python/SQL Focus: These are directly applicable to automation and quantum computing (most quantum frameworks use Python).
-- Automation = Quick Wins: Building scripts gives you tangible results fast, boosting confidence.
-- Quantum Foundations: Even a small intro to qubits primes your brain for future learning.
+---
 
 🚀 **Post-Vacation Quantum Roadmap**
 After your vacation, transition smoothly into quantum computing with:
