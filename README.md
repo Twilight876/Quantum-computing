@@ -714,9 +714,9 @@ Thank you for your suggestions!
 
 ### **👨‍🔬 Idols**
 1. Einstein
-2. Tesla
+2. Richard freymann
 3. Newton
-4. Michio Kaku
+4. aristole
 5. David J. Malan
 
 ---
